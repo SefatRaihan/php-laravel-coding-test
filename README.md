@@ -1,4 +1,2 @@
-1. composer update
-2. .env copy
-3. migrate
-4. run npm dev
+It will run if you set up the Laravel project in general.
+if authentication show any error "run npm dev".
